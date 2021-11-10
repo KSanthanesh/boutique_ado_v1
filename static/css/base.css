@@ -76,6 +76,12 @@ a.category-badge > span.badge:hover {
     color: #fff !important;
 }
 
+.btn-outline-black {
+    background: white;
+    color: black !important; /* use important to overrode link colors for <a> elements */
+    border: 1px solid black;
+}
+
 .btt-button {
     height: 42px;
     width: 42px;
